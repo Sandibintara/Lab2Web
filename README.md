@@ -83,6 +83,46 @@ dan CSS.</p>
 ![outputhtml1.PNG](image/outputhtml1.PNG)
 <br>
 
+<h1>Css Dasar</h1>
+<br>
+
+> Syntax
+<br>
+
+```
+<head>
+<title>CSS Dasar</title>
+<style>
+body {
+font-family:'Open Sans', sans-serif;
+}
+header {
+min-height: 80px;
+border-bottom:1px solid #77CCEF;
+}
+h1 {
+font-size: 24px;
+color: #0F189F;
+text-align: center;
+padding: 20px 10px;
+}
+h1 i {
+color:#6d6a6b;
+}
+</style>
+```
+<br>
+
+> font-family (menentukan jenis font yang akan di Pilih)| header = min-heaight & border bottom (merupakan posisi header dengan minimal ketinggian XX pixel dan garis bawah menggunakan kerapatan XX pixel)| font size (ukuran huruf)|color (warna dengan kode warna solid bisa di akses sesuai keinginan di [https://cssgradient.io/])
+<br>
+
+<h2> Output </h2>
+<hr>
+
+![cssdasar.PNG](image/cssdasar.PNG)
+
+
+
 
 
 
