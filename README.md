@@ -1,20 +1,21 @@
 # Lab2Web
 Repository ini di buat untuk memenuhi tugas pertemuan 3
-
+<hr>
 Nama	: SANDI BINTARA
 <hr>
 NIM	: 312010039
 <hr>
 <br>
 
-# tugas
+# Tugas
 <br>
 ![tugas.PNG](image/tugas.PNG)
 <br>
+
 # Jawaban !
 <hr>
 # Pernyataan Tugas
-
+<br>
 >1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS
 dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
 <br>
